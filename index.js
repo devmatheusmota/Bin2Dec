@@ -20,7 +20,7 @@ function convert() {
 			isValid = true;
 		}
 	}
-	if (input.value.length > 8) {
+	if (input.value.length >= 8) {
 		alert('Binary number has to have up to 8 digits');
 		input.value = '';
 	} else if (!isValid) {
