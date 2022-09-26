@@ -6,4 +6,4 @@
 
 - HTML
 - CSS
-- Javascript puro
+- Javascript
